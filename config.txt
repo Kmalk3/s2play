@@ -1,0 +1,7 @@
+?token=NTIwNTUyNzk5NTc5NDA2MzM2.DuviMg.9odPkRs5A7xkcOSm58rrH-JLq0I
+owner=490546269832609792
+prefix= 2
+game= 2help
+stayinchannel=true
+songinstatus=true 
+token=NTIwNTUyNzk5NTc5NDA2MzM2.DuviMg.9odPkRs5A7xkcOSm58rrH-JLq0I
